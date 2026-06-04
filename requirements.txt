@@ -1,2 +1,1 @@
-# No external dependencies — uses Python standard library only
-# Python 3.8+ required
+# só stdlib do Python, sem dependências externas

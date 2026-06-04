@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
-"""
-banner_grabber.py — Grab service banners from open ports
-Part of python-security-tools | Educational use only
-"""
+# tenta capturar banners de serviços em portas abertas
 
 import socket
 import argparse

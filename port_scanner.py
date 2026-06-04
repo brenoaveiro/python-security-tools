@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
-"""
-port_scanner.py — Simple TCP port scanner
-Part of python-security-tools | Educational use only
-"""
+# scanner TCP simples com threading
 
 import socket
 import argparse

@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
-"""
-hash_checker.py — Compute and compare MD5/SHA hashes for files and strings
-Part of python-security-tools | Educational use only
-"""
+# calcula e compara hashes de arquivos ou strings
 
 import hashlib
 import argparse
